@@ -1,0 +1,108 @@
+82.02,Ravenswood City,Ravenswood City Elementary,2993
+70.91,Emery Unified,Emery Unified,698
+68.97,Bellevue Union,Bellevue Union,1544
+67.52,Oakland Unified,Oakland Unified,48704
+66.98,Live Oak Unified,Live Oak Unified,1902
+65.43,Pittsburg Unified,Pittsburg Unified,11015
+63.51,San Rafael City,San Rafael City Elementary,4415
+61.62,Franklin-McKinley Elementary,Franklin-McKinley Elementary,8980
+60.79,Alum Rock Union,Alum Rock Union Elementary,9850
+60.53,Antioch Unified,Antioch Unified,16599
+57.34,Bayshore Elementary,Bayshore Elementary,361
+57.26,West Contra Costa Unified,West Contra Costa Unified,31027
+55.54,Vallejo City Unified,Vallejo City Unified,13252
+53.40,San Leandro Unified,San Leandro Unified,8828
+53.06,San Lorenzo Unified,San Lorenzo Unified,10528
+53.04,John Swett Unified,John Swett Unified,1312
+52.36,Hayward Unified,Hayward Unified,21638
+50.86,Live Oak Elementary,Live Oak Elementary,1730
+50.13,Santa Rosa,Santa Rosa Elementary,4651
+49.95,Redwood City,Redwood City Elementary,8086
+48.09,Fairfield-Suisun Unified,Fairfield-Suisun Unified,20703
+47.89,San Rafael City,San Rafael City High,2666
+47.13,Gilroy Unified,Gilroy Unified,11360
+46.55,Mount Pleasant Elementary,Mount Pleasant Elementary,1929
+45.73,Sausalito Marin,Sausalito Marin City,457
+45.41,Newark Unified,Newark Unified,5507
+45.18,San Francisco Unified,San Francisco Unified,58705
+43.74,Sonoma Valley Unified,Sonoma Valley Unified,3950
+43.28,Healdsburg Unified,Healdsburg Unified,1317
+42.79,Napa Valley Unified,Napa Valley Unified,17240
+42.76,Dixon Unified,Dixon Unified,3407
+37.94,Santa Rosa,Santa Rosa High,10821
+37.74,Piner-Olivet Union Elementary,Piner-Olivet Union Elementary,1240
+37.67,East Side Union High,East Side Union High,25946
+37.41,Windsor Unified,Windsor Unified,4790
+36.72,La Honda-Pescadero,La Honda-Pescadero Unified,275
+36.39,Cotati-Rohnert Park Unified,Cotati-Rohnert Park Unified,6111
+36.30,Oakley Union Elementary,Oakley Union Elementary,4939
+36.12,Campbell Union,Campbell Union,6622
+36.10,Sebastopol Union Elementary,Sebastopol Union Elementary,817
+35.51,Cabrillo Unified,Cabrillo Unified,2934
+35.43,Jefferson Elementary,Jefferson Elementary,8895
+34.97,Santa Cruz City,Santa Cruz City Elementary,1684
+34.94,Rincon Valley Union,Rincon Valley Union Elementary,3096
+33.36,Vacaville Unified,Vacaville Unified,13025
+32.88,New Haven Unified,New Haven Unified,10812
+32.66,San Jose Unified,San Jose Unified,28710
+32.46,South San Francisco Unified,South San Francisco Unified,8182
+30.72,Santa Cruz City,Santa Cruz City High,4644
+30.55,Sequoia Union High,Sequoia Union High,10327
+30.40,Santa Clara Unified,Santa Clara Unified,14808
+29.60,West Sonoma County Union High,West Sonoma County Union High,1851
+28.0,San Bruno Park,San Bruno Park Elementary,2275
+27.21,Petaluma Joint Union High,Petaluma Joint Union High,5233
+27.17,Byron Union,Byron Union Elementary,2193
+26.76,San Mateo-Foster City,San Mateo-Foster City,10969
+26.50,Mark West Union Elementary,Mark West Union Elementary,1298
+25.99,Alameda Unified,Alameda Unified,10927
+25.49,Oak Grove Elementary,Oak Grove Elementary,9362
+25.07,Jefferson Union High,Jefferson Union High,4705
+24.82,Mountain View Whisman Unified,Mountain View Whisman,4753
+23.84,Berkeley Unified,Berkeley Unified,9409
+23.62,Milpitas Unified,Milpitas Unified,10413
+23.35,Berryessa Union Elementary,Berryessa Union Elementary,6534
+23.31,Liberty Union High,Liberty Union High,8222
+22.77,Martinez Unified,Martinez Unified,3983
+22.33,Evergreen Elementary,Evergreen Elementary,9789
+22.29,Millbrae,Millbrae Elementary,2238
+22.24,Campbell Union High,Campbell Union High,8606
+22.17,Soquel Union Elementary,Soquel Union Elementary,1745
+21.97,Moreland Unified,Moreland,4364
+21.86,San Lorenzo Valley Unified,San Lorenzo Valley Unified,5699
+20.84,Brentwood Union Elementary,Brentwood Union Elementary,9023
+20.74,Benicia Unified,Benicia Unified,4526
+20.62,Livermore Valley Joint Unified,Livermore Valley Joint Unified,13305
+20.17,San Mateo Union High,San Mateo Union High,9760
+19.24,Castro Valley Unified,Castro Valley Unified,9203
+19.11,Bennett Valley Union,Bennett Valley Union Elementary,989
+17.60,Travis Unified,Travis Unified,5284
+16.79,Pacifica,Pacifica,3006
+16.14,Fremont Unified,Fremont Unified,35187
+15.90,Albany City Unified,Albany City Unified,3501
+13.70,Scotts Valley Unified,Scotts Valley Unified,2635
+11.97,Cambrian Unified,Cambrian,3172
+11.22,Mountain View-Los Altos Union High,Mountain View-Los Altos Union High,4563
+10.21,Burlingame,Burlingame Elementary,3387
+9.814,Tamalpais Union High,Tamalpais Union High,5166
+9.270,Palo Alto Unified,Palo Alto Unified,10754
+9.157,Sunol Glen Unified,Sunol Glen Unified,273
+8.660,Union Elementary,Union Elementary,5727
+7.859,Woodside,Woodside Elementary,369
+7.478,Pleasanton Unified,Pleasanton Unified,14469
+6.930,Dublin Unified,Dublin Unified,12625
+6.671,Belmont-Redwood Shores,Belmont-Redwood Shores Elementary,4152
+6.616,Menlo Park City,Menlo Park City Elementary,2781
+6.504,Acalanes Union High,Acalanes Union High,5535
+6.003,Las Lomitas Elementary,Las Lomitas Elementary,1116
+5.906,Portola Valley,Portola Valley Elementary,491
+5.816,Los Altos,Los Altos Elementary,3576
+5.378,Mill Valley,Mill Valley Elementary,2640
+5.267,San Carlos,San Carlos Elementary,3265
+5.190,Cupertino Union,Cupertino Union,15663
+5.067,San Ramon Valley Unified,San Ramon Valley Unified,30726
+3.837,Los Gatos Union Elementary,Los Gatos Union Elementary,2710
+3.504,Moraga,Moraga Elementary,1769
+3.311,Lafayette,Lafayette Elementary,3261
+3.075,Hillsborough City,Hillsborough City Elementary,1268
+2.272,Piedmont City Unified,Piedmont City Unified,2464

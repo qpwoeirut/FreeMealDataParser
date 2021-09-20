@@ -1,0 +1,914 @@
+100.0,Di Giorgio Elementary
+99.37,California School for the Deaf-Fremont (State Special Schl)
+97.91,Lost Hills Union Elementary
+97.05,Terra Bella Union Elementary
+96.99,Vineland Elementary
+96.01,Palm Springs Unified
+95.08,Raisin City Elementary
+94.56,Round Valley Unified
+93.67,Pixley Union Elementary
+93.51,Mendota Unified
+92.28,Richgrove Elementary
+91.79,Eastside Union Elementary
+90.28,Woodville Union Elementary
+90.25,Strathmore Union Elementary
+89.08,Arvin Union
+88.56,Wilsona Elementary
+88.15,Monroe Elementary
+87.70,Vallecitos Elementary
+87.66,Earlimart Elementary
+87.16,SBE - Celerity Himalia
+87.04,Corcoran Joint Unified
+87.03,Farmersville Unified
+86.99,Westmorland Union Elementary
+86.98,Reef-Sunset Unified
+86.84,Bakersfield City
+86.80,Lamont Elementary
+86.69,Cutler-Orosi Joint Unified
+86.68,SBE - Academia Avance Charter
+86.27,Parlier Unified
+86.04,Sierra Unified
+85.98,El Nido Elementary
+85.86,Paradise Elementary
+85.56,Beardsley Elementary
+85.52,Coachella Valley Unified
+85.14,Caruthers Unified
+85.06,Buttonwillow Union Elementary
+84.92,Lennox
+84.37,Lynwood Unified
+84.10,King City Union
+84.10,Bassett Unified
+83.90,Compton Unified
+83.84,Stone Corral Elementary
+83.62,Kings River Union Elementary
+83.53,Pond Union Elementary
+83.45,Burrel Union Elementary
+83.24,Firebaugh-Las Deltas Unified
+83.20,Santa Maria-Bonita
+83.11,Tipton Elementary
+83.05,Sunnyside Union Elementary
+82.88,San Bernardino City Unified
+82.72,Coalinga-Huron Unified
+82.69,Napa County Office of Education
+82.49,Baldwin Park Unified
+82.30,Traver Joint Elementary
+82.26,San Pasqual Valley Unified
+82.02,Ravenswood City Elementary
+82.02,Greenfield Union Elementary
+81.76,Robla Elementary
+81.62,Planada Elementary
+81.41,West Park Elementary
+80.84,Inyo County Office of Education
+80.83,Delano Joint Union High
+80.78,Victor Elementary
+80.70,Winton
+80.60,Madera Unified
+80.51,Alisal Union
+80.46,Golden Plains Unified
+80.18,Taft City
+80.17,Paramount Unified
+80.09,Banning Unified
+80.04,Brawley Elementary
+80.03,Edison Elementary
+79.86,Kerman Unified
+79.79,Konocti Unified
+79.74,El Monte Union High
+79.60,Porterville Unified
+79.53,Wasco Union Elementary
+79.38,Pomona Unified
+79.35,Kings Canyon Joint Unified
+79.27,Calexico Unified
+79.16,Inglewood Unified
+78.73,Twin Rivers Unified
+78.67,Mountain View Elementary
+78.53,New Hope Elementary
+78.52,Barstow Unified
+78.35,Dos Palos Oro Loma Joint Unified
+78.23,Lindsay Unified
+78.21,Selma Unified
+78.17,McFarland Unified
+78.09,Standard Elementary
+78.01,Hanford Elementary
+77.76,Fairfax Elementary
+77.71,Woodlake Unified
+77.51,Kit Carson Union Elementary
+77.42,Chowchilla Elementary
+77.38,Palmdale Elementary
+77.37,Rialto Unified
+77.33,Lancaster Elementary
+77.28,Calipatria Unified
+77.27,SBE - Watsonville Prep
+77.23,Santa Ana Unified
+77.19,Gonzales Unified
+76.72,Chualar Union
+76.69,Red Bluff Union Elementary
+76.64,Lucerne Elementary
+76.55,Modesto City Elementary
+76.52,Needles Unified
+76.52,Monson-Sultana Joint Union Elementary
+76.48,Lawndale Elementary
+76.47,Mendocino County Office of Education
+76.30,Laton Joint Unified
+76.19,SBE - KIPP Bayview Elementary
+76.17,Weed Union Elementary
+76.04,Los Angeles Unified
+75.89,Soledad Unified
+75.69,Ontario-Montclair
+75.67,San Ardo Union Elementary
+75.24,Thermalito Union Elementary
+75.13,Magnolia Elementary
+75.05,Keppel Union Elementary
+74.93,Moreno Valley Unified
+74.93,Oxnard
+74.89,Colton Joint Unified
+74.87,South Monterey County Joint Union High
+74.80,Seeley Union Elementary
+74.80,Guadalupe Union Elementary
+74.73,Williams Unified
+74.60,Delhi Unified
+74.57,South Fork Union
+74.48,El Centro Elementary
+74.31,Le Grand Union High
+74.31,Merced River Union Elementary
+74.25,Anaheim Elementary
+74.16,Victor Valley Union High
+74.13,Kernville Union Elementary
+74.12,Stockton Unified
+74.10,Meadows Union Elementary
+73.99,Palo Verde Union Elementary
+73.97,Madera County Superintendent of Schools
+73.96,North Monterey County Unified
+73.91,Wasco Union High
+73.89,SBE - Magnolia Science Academy Santa Ana
+73.85,Fresno County Office of Education
+73.83,Bangor Union Elementary
+73.74,Trona Joint Unified
+73.64,Fresno Unified
+73.51,Ceres Unified
+73.48,Gustine Unified
+73.38,Riverdale Joint Unified
+73.37,Mountain Valley Unified
+73.34,Salinas Union High
+73.26,Azusa Unified
+73.26,Armona Union Elementary
+72.81,Mojave Unified
+72.67,Salinas City Elementary
+72.64,Washington Colony Elementary
+72.60,Weaver Union
+72.47,Hawthorne
+72.45,Hueneme Elementary
+72.30,Corning Union Elementary
+72.09,Dinuba Unified
+72.06,Montebello Unified
+72.05,Santa Paula Unified
+71.85,Oro Grande
+71.65,Atwater Elementary
+71.64,Tulare City
+71.62,Hemet Unified
+71.33,SBE - Rocketship Futuro Academy
+71.17,Semitropic Elementary
+71.17,Jamestown Elementary
+71.16,Orange Center
+71.09,Perris Elementary
+71.00,Tulelake Basin Joint Unified
+70.97,Livingston Union
+70.93,Los Angeles County Office of Education
+70.91,Emery Unified
+70.81,Palermo Union Elementary
+70.73,Luther Burbank
+70.50,Anderson Valley Unified
+70.27,Alvina Elementary
+70.19,Adelanto Elementary
+70.13,South Whittier Elementary
+70.09,San Luis Obispo County Office of Education
+69.87,Oroville City Elementary
+69.87,Orland Joint Unified
+69.80,Chatom Union
+69.64,Waukena Joint Union Elementary
+69.56,Merced City Elementary
+69.55,San Jacinto Unified
+69.52,Le Grand Union Elementary
+69.23,Rio Dell Elementary
+69.09,Klamath-Trinity Joint Unified
+69.04,Taft Union High
+69.00,Elk Hills Elementary
+68.97,Bellevue Union
+68.79,Pacific Elementary
+68.72,Richland Union Elementary
+68.62,Santa Barbara County Office of Education
+68.56,Pleasant View Elementary
+68.54,Upper Lake Unified
+68.51,SBE - Prepa Tec Los Angeles High
+68.47,Coast Unified
+68.18,Pajaro Valley Unified
+68.17,Sutter County Office of Education
+68.09,Kings County Office of Education
+67.87,Los Nietos
+67.84,Ukiah Unified
+67.65,Val Verde Unified
+67.64,Tehama County Department of Education
+67.61,Delano Union Elementary
+67.59,Del Norte County Office of Education
+67.58,Yuba County Office of Education
+67.52,Oakland Unified
+67.16,Gridley Unified
+67.10,Sacramento County Office of Education
+67.08,Los Molinos Unified
+67.04,Yuba City Unified
+67.04,Fontana Unified
+66.98,Live Oak Unified
+66.92,Baker Valley Unified
+66.87,Borrego Springs Unified
+66.84,Chowchilla Union High
+66.84,Centinela Valley Union High
+66.76,Valle Lindo Elementary
+66.75,Gerber Union Elementary
+66.72,Southern Kern Unified
+66.66,Shandon Joint Unified
+66.61,Cascade Union Elementary
+66.51,Black Butte Union Elementary
+66.43,Empire Union Elementary
+66.23,Garvey Elementary
+66.12,Buena Park Elementary
+66.09,SBE - John Henry High
+66.07,Marysville Joint Unified
+66.03,Merced County Office of Education
+66.00,Holtville Unified
+65.85,Rowland Unified
+65.85,Oroville Union High
+65.78,Merced Union High
+65.77,El Monte City
+65.76,Kern High
+65.67,San Ysidro Elementary
+65.65,Central Union High
+65.59,Burton Elementary
+65.54,Fort Bragg Unified
+65.46,Washington Unified
+65.43,Pittsburg Unified
+65.36,Roseland
+65.32,Brawley Union High
+65.16,Norwalk-La Mirada Unified
+65.14,Fillmore Unified
+64.99,Greenfield Union
+64.97,Gateway Unified
+64.95,Big Valley Joint Unified
+64.84,Lakeport Unified
+64.74,Eureka City Schools
+64.67,Alvord Unified
+64.55,Siskiyou County Office of Education
+64.48,Anaheim Union High
+64.32,SBE - The School of Arts and Enterprise
+64.30,Nuview Union
+64.29,Whittier City Elementary
+64.24,National Elementary
+63.87,Alpaugh Unified
+63.81,Yreka Union Elementary
+63.69,Maxwell Unified
+63.68,Willows Unified
+63.51,San Rafael City Elementary
+63.49,Perris Union High
+63.48,General Shafter Elementary
+63.40,Fowler Unified
+63.38,Esparto Unified
+63.35,Garden Grove Unified
+63.23,Enterprise Elementary
+63.18,Montague Elementary
+62.96,Westwood Unified
+62.94,Morongo Unified
+62.83,Jurupa Unified
+62.81,Kern County Office of Education
+62.63,Cajon Valley Union
+62.53,Fortuna Elementary
+62.52,Kelseyville Unified
+62.50,Santa Rita Union Elementary
+62.41,Princeton Joint Unified
+62.40,SBE - Olive Grove Charter - Lompoc
+62.21,Lemon Grove
+62.17,Happy Valley Union Elementary
+61.97,El Rancho Unified
+61.95,Los Banos Unified
+61.91,Tulare Joint Union High
+61.90,Patterson Joint Unified
+61.87,San Francisco County Office of Education
+61.70,Scotia Union Elementary
+61.62,Franklin-McKinley Elementary
+61.59,Redlands Unified
+61.54,Exeter Unified
+61.48,Bear Valley Unified
+61.46,Rosemead Elementary
+61.35,Hamilton Unified
+61.24,Center Joint Unified
+61.18,Central Unified
+61.13,Escondido Union
+61.10,Biggs Unified
+61.07,Santa Maria Joint Union High
+60.94,Waterford Unified
+60.93,Sacramento City Unified
+60.93,Corning Union High
+60.79,Alum Rock Union Elementary
+60.77,Hesperia Unified
+60.74,Riverbank Unified
+60.65,Pacific Union Elementary
+60.56,Ducor Union Elementary
+60.55,Palo Verde Unified
+60.54,Westminster
+60.53,Antioch Unified
+60.45,McKinleyville Union Elementary
+60.41,Calistoga Joint Unified
+60.40,Hacienda la Puente Unified
+60.30,Lemoore Union Elementary
+60.28,Point Arena Joint Union High
+60.27,South Bay Union Elementary
+60.26,Panama-Buena Vista Union
+60.22,Antelope Valley Union High
+60.20,West Covina Unified
+60.13,Desert Sands Unified
+59.96,Bellflower Unified
+59.94,Heber Elementary
+59.78,Newman-Crows Landing Unified
+59.73,San Bernardino County Office of Education
+59.66,Stanislaus Union Elementary
+59.59,Snowline Joint Unified
+59.49,Romoland Elementary
+59.41,Savanna Elementary
+59.32,Del Norte County Unified
+59.22,Lakeside Union
+59.20,Keyes Union
+59.19,San Joaquin County Office of Education
+59.11,Mono County Office of Education
+59.03,Imperial County Office of Education
+59.00,Cucamonga Elementary
+58.77,Lodi Unified
+58.76,Redding Elementary
+58.72,Modoc Joint Unified
+58.57,Visalia Unified
+58.28,Shaffer Union Elementary
+58.10,Blue Lake Union Elementary
+58.00,Apple Valley Unified
+57.97,Butte Valley Unified
+57.86,Fallbrook Union High
+57.73,Hollister
+57.69,Tuolumne County Superintendent of Schools
+57.65,El Tejon Unified
+57.48,Covina-Valley Unified
+57.39,La Habra City Elementary
+57.39,Somis Union
+57.38,Long Beach Unified
+57.38,Willits Unified
+57.37,Oxnard Union High
+57.37,SBE - Vista Springs Charter
+57.34,Bayshore Elementary
+57.26,West Contra Costa Unified
+57.14,Buena Vista Elementary
+57.02,Surprise Valley Joint Unified
+56.98,Rio Elementary
+56.94,Paradise Unified
+56.92,Riverside Unified
+56.79,SBE - Grossmont Secondary
+56.78,Red Bluff Joint Union High
+56.66,SBE - Olive Grove Charter - Orcutt/Santa Maria
+56.59,Oak Valley Union Elementary
+56.48,Lone Pine Unified
+56.45,Vista Unified
+56.39,Cuddeback Union Elementary
+56.37,Meridian Elementary
+56.30,Outside Creek Elementary
+56.25,Modesto City High
+56.24,Carpinteria Unified
+56.08,Potter Valley Community Unified
+56.04,Monterey Peninsula Unified
+55.95,San Miguel Joint Union
+55.93,Antelope Elementary
+55.89,Hanford Joint Union High
+55.86,SBE - Sweetwater Secondary
+55.76,Lake Elsinore Unified
+55.74,Ballico-Cressey Elementary
+55.70,Fall River Joint Unified
+55.54,Vallejo City Unified
+55.50,Wright Elementary
+55.49,Shiloh Elementary
+55.48,Big Pine Unified
+55.38,Lompoc Unified
+55.15,Mariposa County Unified
+54.74,SBE - KIPP Navigate College Prep
+54.68,Fallbrook Union Elementary
+54.67,Kingsburg Elementary Charter
+54.65,Humboldt County Office of Education
+54.52,Manteca Unified
+54.44,Spencer Valley Elementary
+54.31,Nevada County Office of Education
+54.30,Escondido Union High
+54.24,Scott Valley Unified
+54.20,Mark Twain Union Elementary
+54.09,Whittier Union High
+54.05,Duarte Unified
+54.00,Bella Vista Elementary
+53.95,Pasadena Unified
+53.94,Denair Unified
+53.73,Alameda County Office of Education
+53.72,Cuyama Joint Unified
+53.58,Rim of the World Unified
+53.57,Galt Joint Union Elementary
+53.40,San Leandro Unified
+53.38,Cinnabar Elementary
+53.33,Westside Elementary
+53.29,Alview-Dairyland Union Elementary
+53.26,Shasta County Office of Education
+53.21,Chaffey Joint Union High
+53.19,Acton-Agua Dulce Unified
+53.06,San Lorenzo Unified
+53.04,John Swett Unified
+52.84,Colusa Unified
+52.63,Roberts Ferry Union Elementary
+52.43,Downey Unified
+52.36,Hayward Unified
+52.28,Alta Vista Elementary
+52.24,Big Springs Union Elementary
+51.69,Bass Lake Joint Union Elementary
+51.62,Cloverdale Unified
+51.52,Ocean View
+51.35,Southern Humboldt Joint Unified
+51.30,New Jerusalem Elementary
+51.19,South Bay Union
+50.96,Stanislaus County Office of Education
+50.93,Rockford Elementary
+50.92,Elverta Joint Elementary
+50.86,Live Oak Elementary
+50.81,Chawanakee Unified
+50.8,Shoreline Unified
+50.69,Yolo County Office of Education
+50.64,Grass Valley Elementary
+50.55,Laytonville Unified
+50.38,Evergreen Union
+50.36,Linden Unified
+50.35,Monrovia Unified
+50.30,Briggs Elementary
+50.13,Santa Rosa Elementary
+50.01,Little Lake City Elementary
+50.0,Big Oak Flat-Groveland Unified
+49.98,Salida Union Elementary
+49.96,Pierce Joint Unified
+49.95,Redwood City Elementary
+49.76,Geyserville Unified
+49.75,Solano County Office of Education
+49.72,Trinidad Union Elementary
+49.69,Lincoln Unified
+49.66,San Gabriel Unified
+49.66,Riverside County Office of Education
+49.53,Siskiyou Union High
+49.49,Trinity Alps Unified
+49.33,Ferndale Unified
+49.30,Clovis Unified
+49.17,Alhambra Unified
+49.06,Aromas - San Juan Unified
+49.01,Twain Harte
+48.95,SBE - Latitude 37.8 High
+48.83,San Benito High
+48.83,Summerville Elementary
+48.78,Centralia Elementary
+48.72,Arcata Elementary
+48.68,Forestville Union Elementary
+48.66,Turlock Unified
+48.63,Yreka Union High
+48.53,Butte County Office of Education
+48.47,Julian Union Elementary
+48.44,Susanville Elementary
+48.43,Placerville Union Elementary
+48.38,San Mateo County Office of Education
+48.15,Fortuna Union High
+48.12,Lucia Mar Unified
+48.09,Fairfield-Suisun Unified
+48.00,Calaveras Unified
+48.0,Kirkwood Elementary
+47.97,Sierra Sands Unified
+47.95,Sanger Unified
+47.94,Upland Unified
+47.89,San Rafael City High
+47.86,Richfield Elementary
+47.85,Middletown Unified
+47.81,Charter Oak Unified
+47.80,Plaza Elementary
+47.77,Kingsburg Joint Union High
+47.73,Bishop Unified
+47.73,Yosemite Unified
+47.73,Auburn Union Elementary
+47.60,Lassen View Union Elementary
+47.44,East Whittier City Elementary
+47.36,Mountain Empire Unified
+47.29,Glenn County Office of Education
+47.26,Sweetwater Union High
+47.16,Julian Union High
+47.13,Gilroy Unified
+47.11,Winters Joint Unified
+46.96,Lucerne Valley Unified
+46.92,Santa Clara County Office of Education
+46.68,Plumas Unified
+46.56,San Diego County Office of Education
+46.55,Mount Pleasant Elementary
+46.54,SBE - Olive Grove Charter - Santa Barbara
+46.49,Shasta Union Elementary
+46.44,Anderson Union High
+46.32,Oceanside Unified
+46.31,Whitmore Union Elementary
+46.29,San Diego Unified
+46.27,Woodland Joint Unified
+46.21,Pacheco Union Elementary
+46.20,Lake Tahoe Unified
+46.12,Fruitvale Elementary
+45.84,Central Elementary
+45.83,San Antonio Union Elementary
+45.73,Sausalito Marin City
+45.69,Columbine Elementary
+45.65,Guerneville Elementary
+45.63,Liberty Elementary
+45.47,ABC Unified
+45.41,Newark Unified
+45.27,Reeds Creek Elementary
+45.19,Hilmar Unified
+45.18,San Francisco Unified
+45.03,Orange County Department of Education
+45.01,Curtis Creek Elementary
+44.96,Tulare County Office of Education
+44.94,Hughes-Elizabeth Lakes Union Elementary
+44.92,Arena Union Elementary
+44.87,Springville Union Elementary
+44.83,Monterey County Office of Education
+44.80,Lemoore Union High
+44.64,Tracy Joint Unified
+44.44,Douglas City Elementary
+44.32,Penn Valley Union Elementary
+44.29,Santa Barbara Unified
+44.22,River Delta Joint Unified
+44.11,Columbia Union
+44.07,Ventura County Office of Education
+43.91,Natomas Unified
+43.89,La Mesa-Spring Valley
+43.74,Sonoma Valley Unified
+43.39,Sylvan Union Elementary
+43.32,Pollock Pines Elementary
+43.30,San Juan Unified
+43.28,Leggett Valley Unified
+43.28,Healdsburg Unified
+43.20,Calaveras County Office of Education
+43.06,Chula Vista Elementary
+42.97,Mendocino Unified
+42.93,Mother Lode Union Elementary
+42.82,Fullerton Elementary
+42.79,Napa Valley Unified
+42.76,Dixon Unified
+42.53,Imperial Unified
+42.53,Sierra-Plumas Joint Unified
+42.50,Gorman Joint
+42.34,Yucaipa-Calimesa Joint Unified
+42.34,Beaumont Unified
+42.33,Rio Bravo-Greeley Union Elementary
+42.13,Johnstonville Elementary
+42.07,Belleview Elementary
+42.07,Lake Elementary
+42.06,Newport-Mesa Unified
+41.99,Valley Center-Pauma Unified
+41.98,Fort Sage Unified
+41.83,Chicago Park Elementary
+41.77,Cottonwood Union Elementary
+41.54,Sonora Elementary
+41.39,Hughson Unified
+41.39,Elk Grove Unified
+41.36,Vallecito Union
+41.28,Galt Joint Union High
+41.25,Sulphur Springs Union
+40.99,Grossmont Union High
+40.98,SBE - Audeo Charter II
+40.95,Union Hill Elementary
+40.73,Northern Humboldt Union High
+40.61,Chico Unified
+40.53,Paso Robles Joint Unified
+40.48,Contra Costa County Office of Education
+40.41,Pioneer Union Elementary
+40.29,Jamul-Dulzura Union Elementary
+40.21,Manzanita Elementary
+39.86,Orange Unified
+39.84,Maricopa Unified
+39.70,Sequoia Union Elementary
+39.65,Durham Unified
+39.59,Wheatland Union High
+39.57,Brittan Elementary
+39.57,Escalon Unified
+39.52,Camino Union Elementary
+39.29,Westside Union Elementary
+39.22,Glendale Unified
+39.14,Chino Valley Unified
+38.87,Amador County Unified
+38.84,Oak View Union Elementary
+38.5,Eastern Sierra Unified
+38.36,Helendale Elementary
+38.27,Lakeside Union Elementary
+38.18,North County Joint Union Elementary
+38.17,Menifee Union Elementary
+38.16,Black Oak Mine Unified
+38.13,Winship-Robbins
+38.01,Colfax Elementary
+38.00,Golden Valley Unified
+37.98,Capay Joint Union Elementary
+37.94,Santa Rosa High
+37.83,Ojai Unified
+37.74,Piner-Olivet Union Elementary
+37.73,Mupu Elementary
+37.70,Corona-Norco Unified
+37.69,Oakdale Joint Unified
+37.67,East Side Union High
+37.65,Clear Creek Elementary
+37.62,Marin County Office of Education
+37.56,Janesville Union Elementary
+37.5,College Elementary
+37.5,Browns Elementary
+37.41,Windsor Unified
+37.25,Buellton Union Elementary
+37.18,Island Union Elementary
+37.11,Cutten Elementary
+36.90,Mammoth Unified
+36.90,Warner Unified
+36.72,La Honda-Pescadero Unified
+36.45,Mt. Shasta Union Elementary
+36.42,SBE - Baypoint Preparatory Academy San Diego
+36.39,Cotati-Rohnert Park Unified
+36.30,Oakley Union Elementary
+36.24,Silver Valley Unified
+36.12,Campbell Union
+36.11,Mt. Diablo Unified
+36.10,Sebastopol Union Elementary
+36.04,Fullerton Joint Union High
+36.00,Hart-Ransom Union Elementary
+36.00,Sonoma County Office of Education
+35.89,Hope Elementary
+35.75,Butteville Union Elementary
+35.60,Southside Elementary
+35.51,Cabrillo Unified
+35.43,Jefferson Elementary
+35.38,Saint Helena Unified
+35.33,Nevada Joint Union High
+35.24,Temple City Unified
+35.20,Foresthill Union Elementary
+34.97,Arcohe Union Elementary
+34.97,Santa Cruz City Elementary
+34.94,Rincon Valley Union Elementary
+34.78,Newhall
+34.56,Cayucos Elementary
+34.39,Sundale Union Elementary
+34.32,McSwain Union Elementary
+34.30,Lassen Union High
+34.30,SBC - High Tech High
+34.16,Ventura Unified
+33.99,Shasta Union High
+33.99,Tehachapi Unified
+33.93,Solvang Elementary
+33.92,Ramona City Unified
+33.65,Placentia-Yorba Linda Unified
+33.64,Lowell Joint
+33.54,Tustin Unified
+33.45,Orcutt Union Elementary
+33.36,Vacaville Unified
+33.33,Mesa Union Elementary
+33.33,Two Rock Union
+33.10,Valley Home Joint Elementary
+33.02,Wheatland
+32.99,Dry Creek Joint Elementary
+32.91,Tahoe-Truckee Unified
+32.88,New Haven Unified
+32.84,Grenada Elementary
+32.76,Junction Elementary
+32.75,Fieldbrook Elementary
+32.73,Placer County Office of Education
+32.69,Gold Oak Union Elementary
+32.69,Plainsburg Union Elementary
+32.69,Camptonville Elementary
+32.66,San Jose Unified
+32.46,South San Francisco Unified
+32.40,Morgan Hill Unified
+32.38,Sonora Union High
+32.35,Novato Unified
+32.25,Harmony Union Elementary
+32.21,Summerville Union High
+32.14,Soulsbyville Elementary
+32.05,Bret Harte Union High
+32.00,Huntington Beach Union High
+31.94,Maple Elementary
+31.81,Columbia Elementary
+31.71,Marcum-Illinois Union Elementary
+31.60,Bonsall Unified
+31.34,SBE - College Preparatory Middle
+31.26,Bonita Unified
+30.96,Etiwanda Elementary
+30.86,Millville Elementary
+30.85,Hydesville Elementary
+30.77,Dehesa Elementary
+30.75,Ripon Unified
+30.72,Santa Cruz City High
+30.60,Nevada City Elementary
+30.55,Sequoia Union High
+30.54,Alpine Union Elementary
+30.52,Santa Cruz County Office of Education
+30.48,San Luis Coastal Unified
+30.40,Santa Clara Unified
+30.40,Western Placer Unified
+30.31,Banta Elementary
+30.22,Goleta Union Elementary
+30.21,Murrieta Valley Unified
+30.04,SBE - Ross Valley Elementary
+29.93,West Side Union Elementary
+29.93,Oak Grove Union Elementary
+29.84,Alta Loma Elementary
+29.60,West Sonoma County Union High
+29.22,Atascadero Unified
+28.98,Burbank Unified
+28.98,Cypress Elementary
+28.92,Santee
+28.87,Castaic Union
+28.80,William S. Hart Union High
+28.61,San Marcos Unified
+28.60,Central Union Elementary
+28.53,Rosedale Union Elementary
+28.31,Folsom-Cordova Unified
+28.12,Wiseburn Unified
+28.0,San Bruno Park Elementary
+27.60,Moorpark Unified
+27.55,Freshwater Elementary
+27.27,Pleasant Valley
+27.21,Petaluma Joint Union High
+27.18,Petaluma City Elementary
+27.17,Byron Union Elementary
+27.06,Saddleback Valley Unified
+27.02,Simi Valley Unified
+26.87,Orchard Elementary
+26.87,Pleasant Ridge Union Elementary
+26.76,San Mateo-Foster City
+26.72,Hickman Community Charter
+26.60,California School for the Deaf-Riverside (State Special Schl)
+26.55,Plumas Lake Elementary
+26.50,Mark West Union Elementary
+26.21,McCabe Union Elementary
+26.04,Placer Hills Union Elementary
+25.99,Alameda Unified
+25.99,Jacoby Creek Elementary
+25.93,Claremont Unified
+25.54,Muroc Joint Unified
+25.49,Oak Grove Elementary
+25.15,Pleasant Grove Joint Union
+25.07,Jefferson Union High
+24.87,Sutter Union High
+24.86,Ackerman Charter
+24.82,Mountain View Whisman
+24.78,Franklin Elementary
+24.73,Old Adobe Union
+24.61,Torrance Unified
+24.54,Nuestro Elementary
+24.50,Temecula Valley Unified
+24.33,Capistrano Unified
+24.23,Norris Elementary
+24.22,Glendora Unified
+24.15,Twin Hills Union Elementary
+24.11,Gold Trail Union Elementary
+24.03,Three Rivers Union Elementary
+23.95,San Pasqual Union Elementary
+23.94,Roseville Joint Union High
+23.89,Blochman Union Elementary
+23.84,Berkeley Unified
+23.71,Culver City Unified
+23.70,Brea-Olinda Unified
+23.62,Milpitas Unified
+23.35,Berryessa Union Elementary
+23.31,Liberty Union High
+23.24,Roseville City Elementary
+23.07,Dunham Elementary
+23.05,SBE - The New School of San Francisco
+23.04,Arcadia Unified
+22.77,Martinez Unified
+22.76,Mission Union Elementary
+22.54,North Cow Creek Elementary
+22.46,Fountain Valley Elementary
+22.37,Gratton Elementary
+22.33,Evergreen Elementary
+22.29,Millbrae Elementary
+22.24,Campbell Union High
+22.17,Soquel Union Elementary
+21.97,Moreland
+21.95,Walnut Valley Unified
+21.86,San Lorenzo Valley Unified
+21.43,El Dorado County Office of Education
+21.28,Kings River-Hardwick Union Elementary
+21.18,SBE - New West Charter
+21.06,Santa Ynez Valley Union High
+21.04,Sunnyvale
+20.84,Brentwood Union Elementary
+20.74,Benicia Unified
+20.73,Wilmar Union Elementary
+20.72,Knightsen Elementary
+20.62,Livermore Valley Joint Unified
+20.29,Conejo Valley Unified
+20.17,San Mateo Union High
+20.09,Buckeye Union Elementary
+20.01,Placer Union High
+20.0,Alexander Valley Union Elementary
+19.41,East Nicolaus Joint Union High
+19.37,Templeton Unified
+19.37,Santa Monica-Malibu Unified
+19.28,Gravenstein Union Elementary
+19.26,El Dorado Union High
+19.24,Castro Valley Unified
+19.21,California Education Authority (CEA) Headquarters
+19.11,Bennett Valley Union Elementary
+19.08,Kenwood 
+19.07,Saugus Union
+18.98,Brisbane Elementary
+18.89,Carlsbad Unified
+18.18,Huntington Beach City Elementary
+18.04,Mountain Elementary
+17.99,Davis Joint Unified
+17.69,Pacific Grove Unified
+17.60,Travis Unified
+17.47,Big Sur Unified
+17.44,Irvine Unified
+17.41,Los Olivos Elementary
+17.37,Grant Elementary
+16.79,Pacifica
+16.66,Knights Ferry Elementary
+16.15,Lagunitas Elementary
+16.14,Fremont Unified
+16.08,Rocklin Unified
+15.90,Albany City Unified
+15.88,Bonny Doon Union Elementary
+15.39,Beverly Hills Unified
+15.34,Clay Joint Elementary
+14.55,Spreckels Union Elementary
+14.36,Rescue Union Elementary
+14.29,Los Alamitos Unified
+14.24,South Pasadena Unified
+13.94,Poway Unified
+13.92,Cardiff Elementary
+13.81,Miller Creek Elementary
+13.70,Scotts Valley Unified
+13.54,Redondo Beach Unified
+12.78,Encinitas Union Elementary
+12.67,Lammersville Joint Unified
+12.5,Waugh Elementary
+12.29,Loomis Union Elementary
+12.19,Eureka Union
+12.12,Kentfield Elementary
+12.11,Carmel Unified
+12.06,El Segundo Unified
+11.97,Cambrian
+11.39,Walnut Creek Elementary
+11.34,Las Virgenes Unified
+11.22,Mountain View-Los Altos Union High
+11.08,Newcastle Elementary
+10.85,Laguna Beach Unified
+10.81,Latrobe
+10.47,Happy Valley Elementary
+10.46,San Dieguito Union High
+10.21,Burlingame Elementary
+9.814,Tamalpais Union High
+9.809,Fremont Union High
+9.807,Ross Valley Elementary
+9.608,Washington Union Elementary
+9.478,Richmond Elementary
+9.270,Palo Alto Unified
+9.157,Sunol Glen Unified
+8.955,Magnolia Union Elementary
+8.660,Union Elementary
+8.627,Coronado Unified
+8.272,Solana Beach Elementary
+7.859,Woodside Elementary
+7.812,Ballard Elementary
+7.810,Larkspur-Corte Madera
+7.486,Montecito Union Elementary
+7.478,Pleasanton Unified
+7.416,Oak Park Unified
+7.408,San Marino Unified
+7.370,Del Mar Union Elementary
+6.930,Dublin Unified
+6.893,Palos Verdes Peninsula Unified
+6.671,Belmont-Redwood Shores Elementary
+6.616,Menlo Park City Elementary
+6.504,Acalanes Union High
+6.003,Las Lomitas Elementary
+5.906,Portola Valley Elementary
+5.816,Los Altos Elementary
+5.442,Loma Prieta Joint Union Elementary
+5.378,Mill Valley Elementary
+5.267,San Carlos Elementary
+5.258,Hermosa Beach City Elementary
+5.190,Cupertino Union
+5.067,San Ramon Valley Unified
+4.647,Reed Union Elementary
+4.613,La Canada Unified
+4.610,Los Gatos-Saratoga Union High
+4.570,Rancho Santa Fe Elementary
+4.344,Manhattan Beach Unified
+3.837,Los Gatos Union Elementary
+3.504,Moraga Elementary
+3.370,Cold Spring Elementary
+3.311,Lafayette Elementary
+3.138,Saratoga Union Elementary
+3.075,Hillsborough City Elementary
+2.272,Piedmont City Unified
+2.259,Orinda Union Elementary
+1.329,Ross Elementary
